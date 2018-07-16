@@ -1,0 +1,9 @@
+(module MNT_SPARE (layer F.Cu) (tedit 5778660A)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MNT_SPARE (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2.9464 2.9464) (drill 2.9464) (layers *.Cu *.Mask F.SilkS))
+)
